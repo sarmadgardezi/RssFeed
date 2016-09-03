@@ -1,0 +1,6 @@
+{
+  "name": "Create RSS Feed for Static or HTML website | Sarmad Gardezi ",
+  "tagline": "Create RSS Feed for Static or HTML website | Sarmad Gardezi",
+  "body": "# Generate RSS feed for your static / HTML nad PHP Website.\r\n\r\nRSS Feed plays an importent role in getting your whole website Articles or Web Applications to get in google more\r\nfast. You can use Rss Feedburner by #Google to link your Rss feed with Google feedburner.\r\n\r\nName the RSS feed file as \"rss.xml\" so that you can place a url like \" www/domain.com/rss.xml\" or\r\n\" http://sarmadgardezi.com/rss.xml \" so that your RSS feed would work dynamically.\r\n\r\nYou can watch video that how to create RSS Feed by #SarmadGardezi from the Link below:\r\n\r\nLink: https://youtu.be/TwZri73Yp7o",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
