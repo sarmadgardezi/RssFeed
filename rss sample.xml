@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+ <rss version="0.91">
+ <channel>
+ <title> The Developers PK </title>
+ <link>http://www.thedeveloeprs.pk</link>
+ <description>The Developers Pk is an innovator and a thought leader company Islamabad,Pakistan.Their Aim is to give Excellent Services in Cheap Price.</description>
+ <language>en-us</language>
+ <image>
+ <title>The Developers Pk </title>
+ <url>http://thedevelopers.pk/favicons.png</url>
+ <link>http://www.thedevelopers.pk</link>
+ <width>90</width>
+ <height>35</height>
+ </iamge>
+ 
+ <item>
+ <title>Development Services</title>
+ <link>http://www.sarmadgardezi.com/projects </link>
+ <description>With Dictation, you can use the magic of speech recognition to write emails, narrate essays and long documents in the browser without touching the keyboard. To get started, just connect the microphone to your computer and click the Start Dictation button. Dictation uses your browser's local Storage to save all the transcribed text automatically as you speak. That means you can close the browser and it will resume from where you left off. The app internally uses the built-in speech recognition engine of Google Chrome to transform your voice into digital text.</description>
+ 
+ </item>
+ 
+
+ </channel>
+ </rss>
