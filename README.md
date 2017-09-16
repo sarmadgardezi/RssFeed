@@ -1,25 +1,40 @@
 # RssFeed
 Create RSS Feed for Static or HTML website | Sarmad Gardezi
 
-Sample code for RSS FEED
+What is RSS?
+RSS stands for Really Simple Syndication
+RSS allows you to syndicate your site content
+RSS defines an easy way to share and view headlines and content
+RSS files can be automatically updated
+RSS allows personalized views for different sites
+RSS is written in XML
 
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+Why use RSS?
 
-<channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
-  <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
-</channel>
+RSS was designed to show selected data.
 
-</rss>
+Without RSS, users will have to check your site daily for new updates. This may be too time-consuming for many users. With an RSS feed (RSS is often called a News feed or RSS feed) they can check your site faster using an RSS aggregator (a site or program that gathers and sorts out RSS feeds).
+
+Since RSS data is small and fast-loading, it can easily be used with services like cell phones or PDA's.
+
+Web-rings with similar information can easily share data on their web sites to make them better and more useful.
+Who Should use RSS?
+Webmasters who seldom update their web sites do not need RSS!
+
+RSS is useful for web sites that are updated frequently, like:
+
+News sites - Lists news with title, date and descriptions
+Companies - Lists news and new products
+Calendars - Lists upcoming events and important days
+Site changes - Lists changed pages or new pages
+Benefits of RSS
+Here are some benefits of using RSS:
+
+Choose your news
+With RSS you can choose to view the news you want, the news that interest you and are relevant to your work.
+
+Remove unwanted information
+With RSS you can (finally) separate wanted information from unwanted information (spam)!
+
+Increase your site traffic
+With RSS you can create your own news channel, and publish it to the Internet!
